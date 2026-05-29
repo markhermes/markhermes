@@ -16,4 +16,4 @@ GNC (Guidance, Navigation & Control) engineer working in the space sector. PhD i
 
 **Tools I work in:** C, C++, Python, MATLAB, Basilisk, GMAT, POST2, EarthGRAM, IPOPT/PSOPT
 
-Much of my production flight work is proprietary. The repositories below are personal and academic projects that show how I approach estimation, control, and trajectory optimization.
+Much of my production flight work is proprietary. The repositories below are personal and academic projects that show how I have approached estimation, control, and trajectory optimization and the tools I like best.
